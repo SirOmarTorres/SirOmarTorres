@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SirOmarTorres
-- 👀 I’m interested in websites, data analytics, & ChatGPT.
-- 🌱 I’m currently learning how to build a website.
+- 👀 I’m interested in static websites, data analytics, & ChatGPT.
+- 🌱 I’m currently build several static websites.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me on all major social medias by my handle @SirOmarTorres
-- Last updated on 10/12/2023
+- 📫 Social media handle @SirOmarTorres
+- Last updated on 04/12/2024
 
 <!---
 SirOmarTorres/SirOmarTorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
